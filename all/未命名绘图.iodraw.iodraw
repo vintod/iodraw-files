@@ -83,8 +83,8 @@
             <mxPoint x="447.5" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-66" value="&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;结构化 JSON&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="45kp5o1GrJuTPi_ApHMP-30">
-          <mxGeometry x="0.2269" y="-3" relative="1" as="geometry">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-69" value="&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;结构化 JSON&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="45kp5o1GrJuTPi_ApHMP-30">
+          <mxGeometry x="-0.1224" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
