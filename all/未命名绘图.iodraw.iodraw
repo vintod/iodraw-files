@@ -17,16 +17,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-20" value="ProductQueryUtils" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-19">
-          <mxGeometry x="43" y="46.37096774193548" width="190" height="49.395161290322584" as="geometry" />
+          <mxGeometry x="43" y="46.37096774193548" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-19" source="45kp5o1GrJuTPi_ApHMP-21" target="45kp5o1GrJuTPi_ApHMP-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-21" value="调用商品搜索服务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-19">
-          <mxGeometry x="283" y="46.37096774193548" width="188" height="49.395161290322584" as="geometry" />
+          <mxGeometry x="283" y="46.37096774193548" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-22" value="解析为 ProductInfo 列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-19">
-          <mxGeometry x="521" y="46.37096774193548" width="232" height="49.395161290322584" as="geometry" />
+          <mxGeometry x="521" y="46.37096774193548" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-23" value="User&#xa;输入自然语言 Query" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="438.5" y="420" width="203" height="66" as="geometry" />
@@ -94,16 +94,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-56" value="提取 product_terms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
-          <mxGeometry x="42.44871794871795" y="40.806451612903224" width="150" height="43.46774193548387" as="geometry" />
+          <mxGeometry x="42.44871794871795" y="40.806451612903224" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-55" source="45kp5o1GrJuTPi_ApHMP-57" target="45kp5o1GrJuTPi_ApHMP-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-57" value="提取 scene_categories" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
-          <mxGeometry x="279.37179487179486" y="40.806451612903224" width="150" height="43.46774193548387" as="geometry" />
+          <mxGeometry x="279.37179487179486" y="40.806451612903224" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-58" value="去重合并" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
-          <mxGeometry x="560" y="40.81" width="150" height="43.47" as="geometry" />
+          <mxGeometry x="560" y="40.81" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-79" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-76" target="45kp5o1GrJuTPi_ApHMP-47">
           <mxGeometry relative="1" as="geometry" />
