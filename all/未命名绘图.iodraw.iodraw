@@ -144,6 +144,9 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-58" value="去重合并" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
           <mxGeometry x="560" y="40.81" width="183.35" height="43.47" as="geometry" />
         </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-76" target="45kp5o1GrJuTPi_ApHMP-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-76" value="构建 MAS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="560" width="125" height="49" as="geometry" />
         </mxCell>
