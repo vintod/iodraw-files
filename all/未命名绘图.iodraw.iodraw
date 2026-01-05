@@ -8,7 +8,7 @@
           <mxGeometry x="2097" y="191" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-18" value="YhdIntentRecognition 模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="510" width="900" height="710" as="geometry" />
+          <mxGeometry x="120" y="510" width="840" height="710" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="190" y="1000" width="700" height="125" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="438.5" y="420" width="203" height="66" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-28" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="479.5" y="1260" width="150" height="40" as="geometry" />
+          <mxGeometry x="465" y="1260" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-47" target="45kp5o1GrJuTPi_ApHMP-55">
           <mxGeometry relative="1" as="geometry">
