@@ -56,7 +56,7 @@
           <mxGeometry x="265" y="54" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-18" value="YhdIntentRecognition 模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="546" width="850" height="568" as="geometry" />
+          <mxGeometry x="50" y="530" width="940" height="584" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1010" y="964" width="780" height="125" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry x="385" y="610" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-26" value="解析结构化 JSON" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="235" y="942" width="181" height="49" as="geometry" />
+          <mxGeometry x="357" y="870" width="181" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-27" value="生成检索关键词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="239" y="1040" width="172" height="49" as="geometry" />
