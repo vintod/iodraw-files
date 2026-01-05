@@ -83,7 +83,7 @@
             <mxPoint x="447.5" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-66" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="45kp5o1GrJuTPi_ApHMP-30">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-66" value="&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;结构化 JSON&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="45kp5o1GrJuTPi_ApHMP-30">
           <mxGeometry x="0.2269" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -130,7 +130,7 @@
           <mxGeometry x="552.8205128205128" y="46.37096774193549" width="185.5897435897436" height="49.395161290322584" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-55" value="解析结构化 JSON，生成检索关键词" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="850" width="770" height="110" as="geometry" />
+          <mxGeometry x="160" y="860" width="770" height="110" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-55" source="45kp5o1GrJuTPi_ApHMP-56" target="45kp5o1GrJuTPi_ApHMP-57">
           <mxGeometry relative="1" as="geometry" />
