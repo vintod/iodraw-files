@@ -50,7 +50,7 @@
           <mxGeometry x="50" y="540" width="1100" height="710" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1030" width="780" height="125" as="geometry" />
+          <mxGeometry x="145" y="1020" width="780" height="125" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-20" value="ProductQueryUtils" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-19">
           <mxGeometry x="43" y="46.37096774193548" width="190" height="49.395161290322584" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="373" y="430" width="203" height="66" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-28" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="389" y="1355" width="172" height="49" as="geometry" />
+          <mxGeometry x="449" y="1330" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-47" target="45kp5o1GrJuTPi_ApHMP-55">
           <mxGeometry relative="1" as="geometry">
@@ -96,14 +96,14 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="45kp5o1GrJuTPi_ApHMP-28">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1.003;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-18" target="45kp5o1GrJuTPi_ApHMP-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="475" y="1305" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-47" value="Agent" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="670" width="770" height="125" as="geometry" />
+          <mxGeometry x="150" y="620" width="770" height="125" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-47" source="45kp5o1GrJuTPi_ApHMP-48" target="45kp5o1GrJuTPi_ApHMP-49">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
           <mxGeometry x="552.8205128205128" y="46.37096774193549" width="185.5897435897436" height="49.395161290322584" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-55" value="解析结构化 JSON，生成检索关键词" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="160" y="860" width="770" height="110" as="geometry" />
+          <mxGeometry x="155" y="830" width="770" height="110" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-55" source="45kp5o1GrJuTPi_ApHMP-56" target="45kp5o1GrJuTPi_ApHMP-57">
           <mxGeometry relative="1" as="geometry" />
