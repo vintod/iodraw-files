@@ -46,15 +46,6 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-14" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2097" y="191" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-15" value="LLM 服务" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="239" y="1164" width="472" height="141" as="geometry" />
-        </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-16" value="HttpLlm&#xa;外部大模型接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-15">
-          <mxGeometry x="43" y="46" width="172" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-17" value="Prompt 规则执行" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-15">
-          <mxGeometry x="265" y="54" width="180" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-18" value="YhdIntentRecognition 模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="540" width="1030" height="630" as="geometry" />
         </mxCell>
@@ -106,21 +97,24 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-27" target="45kp5o1GrJuTPi_ApHMP-15">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.27;entryY=0;rounded=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="325" y="1139" />
             </Array>
+            <mxPoint x="366.43999999999915" y="1164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-15" target="45kp5o1GrJuTPi_ApHMP-28">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="45kp5o1GrJuTPi_ApHMP-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="475" y="1305" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-36" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-18" target="45kp5o1GrJuTPi_ApHMP-15">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-36" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="499.1501976284585" y="1164" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-47" value="Agent" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
