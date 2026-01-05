@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-14" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="2097" y="191" width="172" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-18" value="YhdIntentRecognition 模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="120" y="510" width="840" height="710" as="geometry" />
         </mxCell>
@@ -70,22 +67,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-47" value="Qeury提取" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="190" y="670" width="700" height="125" as="geometry" />
+          <mxGeometry x="294" y="716" width="532" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="45kp5o1GrJuTPi_ApHMP-47" source="45kp5o1GrJuTPi_ApHMP-48" target="45kp5o1GrJuTPi_ApHMP-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-48" value="ChatAgent" style="whiteSpace=wrap;strokeWidth=2;" parent="45kp5o1GrJuTPi_ApHMP-47" vertex="1">
-          <mxGeometry x="299.9988344988345" y="46.37096774193548" width="136.36363636363635" height="40" as="geometry" />
+          <mxGeometry x="224.47386650907782" y="5.000967741935483" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="45kp5o1GrJuTPi_ApHMP-47" source="45kp5o1GrJuTPi_ApHMP-50" target="45kp5o1GrJuTPi_ApHMP-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-50" value="Query+Prompt" style="whiteSpace=wrap;strokeWidth=2;" parent="45kp5o1GrJuTPi_ApHMP-47" vertex="1">
-          <mxGeometry x="103.5249679897567" y="46.37" width="136.36363636363635" height="40" as="geometry" />
+          <mxGeometry x="18" y="5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-49" value="HttpLlm" style="whiteSpace=wrap;strokeWidth=2;" parent="45kp5o1GrJuTPi_ApHMP-47" vertex="1">
-          <mxGeometry x="498.93998908892524" y="46.37096774193549" width="136.36363636363635" height="40" as="geometry" />
+          <mxGeometry x="433.41502109916854" y="5.00096774193549" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-55" value="解析结构化 JSON，提取搜索关键词" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="190" y="870" width="700" height="110" as="geometry" />
