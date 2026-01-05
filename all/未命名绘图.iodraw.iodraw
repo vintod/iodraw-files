@@ -85,10 +85,10 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-28" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="389" y="1355" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-24">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;rounded=0;entryX=0.463;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-24" target="45kp5o1GrJuTPi_ApHMP-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="447.5" y="710.0000000000002" as="targetPoint" />
+            <mxPoint x="448" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="45kp5o1GrJuTPi_ApHMP-26">
@@ -123,9 +123,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-38" value="调用 ChatAgent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="510" y="860" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-47" value="Agent" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="90" y="720" width="780" height="125" as="geometry" />
