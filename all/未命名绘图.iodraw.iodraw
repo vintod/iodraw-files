@@ -11,7 +11,7 @@
           <mxGeometry x="120" y="510" width="840" height="710" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1000" width="700" height="125" as="geometry" />
+          <mxGeometry x="190" y="1020" width="700" height="125" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-19" source="45kp5o1GrJuTPi_ApHMP-20" target="45kp5o1GrJuTPi_ApHMP-21">
           <mxGeometry relative="1" as="geometry" />
