@@ -46,7 +46,7 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-14" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2097" y="191" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-18" value="YhdIntentRecognition 模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-18" value="YhdIntentRecognition 模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="50" y="540" width="1100" height="710" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
