@@ -132,6 +132,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-38" value="调用 ChatAgent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="860" width="171" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
