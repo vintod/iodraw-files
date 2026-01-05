@@ -120,7 +120,7 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-49" value="HttpLlm" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-47">
           <mxGeometry x="552.8205128205128" y="46.37096774193549" width="185.5897435897436" height="49.395161290322584" as="geometry" />
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-55" value="解析结构化 JSON，生成检索关键词" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-55" value="解析结构化 JSON，提取搜索关键词" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="155" y="830" width="770" height="110" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-55" source="45kp5o1GrJuTPi_ApHMP-56" target="45kp5o1GrJuTPi_ApHMP-57">
