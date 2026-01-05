@@ -129,6 +129,89 @@
             <mxPoint x="1039.9" y="920.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-87" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="934" y="620" width="456" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-88" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="820" y="770" width="750" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-89" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="934" y="910" width="456" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-90" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="934" y="490" width="456" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-91" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="934" y="350" width="456" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-92" value="用户接入层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="970" y="360" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-93" value="Web接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990" y="420" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-94" value="API接口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="420" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-95" value="Agent执行层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="970" y="500" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-96" value="YhdBffAgent&#xa;(ReAct模式)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990" y="550" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-97" value="YhdBffAgentFlow&#xa;(工作流模式)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="550" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-98" value="IntentRecognition&#xa;Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="690" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-100" value="ToolExecution&#xa;Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="690" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-102" target="45kp5o1GrJuTPi_ApHMP-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-102" value="RagQaTool&#xa;(知识问答)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="990" y="830" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-103" value="基础设施层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="970" y="925" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-104" value="OxyGent框架&#xa;WorkflowAgent" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0099cc;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="980" y="975" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-105" value="LLM模型&#xa;HttpLlm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0099cc;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="975" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-106" value="HTTP客户端&#xa;HttpClient" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6f3ff;strokeColor=#0099cc;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="975" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-107" value="服务处理层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="970" y="630" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-109" target="45kp5o1GrJuTPi_ApHMP-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-109" value="ProductQueryTool&#xa;(商品查询)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=11;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="830" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-110" value="ResponseSummary&#xa;Service" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="690" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-111" value="工具执行层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="962" y="780" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-112" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;商品数据库&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(Product.java)&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="800" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-113" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;RAG知识库&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;(RAG.java)&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="844" y="795" width="90" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
