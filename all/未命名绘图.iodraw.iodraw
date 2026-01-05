@@ -50,7 +50,7 @@
           <mxGeometry x="90" y="540" width="1100" height="710" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1030" width="780" height="125" as="geometry" />
+          <mxGeometry x="143.5" y="1030" width="780" height="125" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-20" value="ProductQueryUtils" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-19">
           <mxGeometry x="43" y="46.37096774193548" width="190" height="49.395161290322584" as="geometry" />
@@ -90,7 +90,7 @@
             <mxPoint x="550" y="1007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-63" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="45kp5o1GrJuTPi_ApHMP-31">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-63" value="关键词列表" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="45kp5o1GrJuTPi_ApHMP-31">
           <mxGeometry x="-0.1306" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
