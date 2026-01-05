@@ -47,7 +47,7 @@
           <mxGeometry x="2097" y="191" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-18" value="YhdIntentRecognition 模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="540" width="1100" height="710" as="geometry" />
+          <mxGeometry x="120" y="540" width="1100" height="710" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="150" y="1030" width="780" height="125" as="geometry" />
@@ -83,7 +83,7 @@
             <mxPoint x="447.5" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-64" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;结构化 JSON&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="45kp5o1GrJuTPi_ApHMP-30">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-64" value="&lt;span style=&quot;text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;结构化 JSON&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="45kp5o1GrJuTPi_ApHMP-30">
           <mxGeometry x="0.0688" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
