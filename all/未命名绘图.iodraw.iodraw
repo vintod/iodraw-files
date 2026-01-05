@@ -64,7 +64,7 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-23" value="User&#xa;输入自然语言 Query" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="373" y="430" width="203" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-24" value="构建 MAS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-24" value="Query" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="471" y="585" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-28" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
