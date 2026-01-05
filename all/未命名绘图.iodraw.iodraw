@@ -157,7 +157,7 @@
           <mxGeometry x="279.37179487179486" y="40.806451612903224" width="185.5897435897436" height="43.46774193548387" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-58" value="去重合并" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
-          <mxGeometry x="514.3205128205128" y="40.806451612903224" width="229.02564102564105" height="43.46774193548387" as="geometry" />
+          <mxGeometry x="560" y="40.81" width="183.35" height="43.47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
