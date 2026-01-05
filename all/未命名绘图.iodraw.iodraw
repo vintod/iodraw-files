@@ -151,7 +151,7 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-57" value="提取 scene_categories" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
           <mxGeometry x="283" y="46.37096774193548" width="188" height="49.395161290322584" as="geometry" />
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-58" value="解析为 ProductInfo 列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-58" value="去重合并" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
           <mxGeometry x="521" y="46.37096774193548" width="232" height="49.395161290322584" as="geometry" />
         </mxCell>
       </root>
