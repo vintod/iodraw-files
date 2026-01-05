@@ -59,7 +59,7 @@
           <mxGeometry x="50" y="546" width="850" height="568" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="85" y="571" width="780" height="124" as="geometry" />
+          <mxGeometry x="1040" y="571" width="780" height="124" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-20" value="ProductQueryUtils" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-19">
           <mxGeometry x="43" y="46" width="190" height="49" as="geometry" />
@@ -74,10 +74,10 @@
           <mxGeometry x="373" y="430" width="203" height="66" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-24" value="构建 MAS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="263" y="745" width="125" height="49" as="geometry" />
+          <mxGeometry x="385" y="610" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-25" value="调用 ChatAgent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="240" y="843" width="171" height="49" as="geometry" />
+          <mxGeometry x="362" y="700" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-26" value="解析结构化 JSON" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="235" y="942" width="181" height="49" as="geometry" />
