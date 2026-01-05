@@ -88,22 +88,22 @@
           <mxGeometry x="498.93998908892524" y="46.37096774193549" width="136.36363636363635" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-55" value="解析结构化 JSON，提取搜索关键词" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="830" width="705" height="110" as="geometry" />
+          <mxGeometry x="190" y="830" width="702.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-55" source="45kp5o1GrJuTPi_ApHMP-56" target="45kp5o1GrJuTPi_ApHMP-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-56" value="提取 product_terms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
-          <mxGeometry x="99.99538461538461" y="40.806451612903224" width="137.33766233766235" height="40" as="geometry" />
+          <mxGeometry x="99.64079105291871" y="40.806451612903224" width="136.85064935064938" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-55" source="45kp5o1GrJuTPi_ApHMP-57" target="45kp5o1GrJuTPi_ApHMP-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-57" value="提取 scene_categories" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
-          <mxGeometry x="299.9984615384615" y="40.806451612903224" width="137.33766233766235" height="40" as="geometry" />
+          <mxGeometry x="298.9346372067649" y="40.806451612903224" width="136.85064935064938" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-58" value="去重合并" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
-          <mxGeometry x="499.66727272727275" y="40.81" width="137.33766233766235" height="40" as="geometry" />
+          <mxGeometry x="497.89540296582857" y="40.81" width="136.85064935064938" height="40" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-79" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.528;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-76" target="45kp5o1GrJuTPi_ApHMP-47">
           <mxGeometry relative="1" as="geometry" />
