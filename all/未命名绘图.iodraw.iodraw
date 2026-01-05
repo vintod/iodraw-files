@@ -28,7 +28,7 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-22" value="解析为 ProductInfo 列表" style="whiteSpace=wrap;strokeWidth=2;" parent="45kp5o1GrJuTPi_ApHMP-19" vertex="1">
           <mxGeometry x="497.8676486633933" y="42.50096774193548" width="134.61538461538464" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-23" value="User输入自然语言 Query" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-23" value="User输入自然语言 Query&#xa;eg:我想去徒步" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="419.25" y="400" width="241.5" height="66" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-28" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
