@@ -65,7 +65,7 @@
           <mxGeometry x="373" y="430" width="203" height="66" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-24" value="构建 MAS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="447.5" y="584" width="125" height="49" as="geometry" />
+          <mxGeometry x="471" y="585" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-27" value="生成检索关键词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="447.5" y="1026" width="172" height="49" as="geometry" />
@@ -73,7 +73,7 @@
         <mxCell id="45kp5o1GrJuTPi_ApHMP-28" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="389" y="1355" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;rounded=0;entryX=0.463;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-24" target="45kp5o1GrJuTPi_ApHMP-47">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;rounded=0;entryX=0.483;entryY=0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-24" target="45kp5o1GrJuTPi_ApHMP-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="448" y="710" as="targetPoint" />
