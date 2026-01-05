@@ -68,7 +68,7 @@
           <mxGeometry x="521" y="46.37096774193548" width="232" height="49.395161290322584" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-23" value="User&#xa;输入自然语言 Query" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="373" y="430" width="203" height="66" as="geometry" />
+          <mxGeometry x="438.5" y="430" width="203" height="66" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-28" value="返回商品候选集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="449" y="1330" width="172" height="49" as="geometry" />
