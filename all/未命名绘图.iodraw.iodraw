@@ -47,7 +47,7 @@
           <mxGeometry x="2097" y="191" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-18" value="YhdIntentRecognition 模块" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="90" y="540" width="1100" height="710" as="geometry" />
+          <mxGeometry x="50" y="540" width="1100" height="710" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-19" value="商品检索" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="150" y="1030" width="780" height="125" as="geometry" />
