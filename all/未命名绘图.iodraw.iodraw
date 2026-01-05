@@ -109,7 +109,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-47" value="Qeury提取" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="150" y="620" width="770" height="125" as="geometry" />
+          <mxGeometry x="150" y="640" width="770" height="125" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-47" source="45kp5o1GrJuTPi_ApHMP-48" target="45kp5o1GrJuTPi_ApHMP-49">
           <mxGeometry relative="1" as="geometry" />
@@ -143,9 +143,6 @@
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-58" value="去重合并" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-55">
           <mxGeometry x="560" y="40.81" width="183.35" height="43.47" as="geometry" />
-        </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="45kp5o1GrJuTPi_ApHMP-76" target="45kp5o1GrJuTPi_ApHMP-49">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-76" value="构建 MAS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="660" y="560" width="125" height="49" as="geometry" />
