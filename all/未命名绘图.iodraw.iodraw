@@ -111,7 +111,7 @@
             <mxPoint x="475" y="1305" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="45kp5o1GrJuTPi_ApHMP-47" value="构建Agent" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="45kp5o1GrJuTPi_ApHMP-47" value="Agent" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="160" y="670" width="770" height="125" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="45kp5o1GrJuTPi_ApHMP-47" source="45kp5o1GrJuTPi_ApHMP-48" target="45kp5o1GrJuTPi_ApHMP-50">
