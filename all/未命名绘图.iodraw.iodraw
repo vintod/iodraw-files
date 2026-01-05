@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-50" value="Query+Prompt" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-47">
-          <mxGeometry x="70" y="46.37" width="170" height="49.4" as="geometry" />
+          <mxGeometry x="50" y="46.37" width="170" height="49.4" as="geometry" />
         </mxCell>
         <mxCell id="45kp5o1GrJuTPi_ApHMP-49" value="HttpLlm" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="45kp5o1GrJuTPi_ApHMP-47">
           <mxGeometry x="552.8205128205128" y="46.37096774193549" width="185.5897435897436" height="49.395161290322584" as="geometry" />
